@@ -1,0 +1,2 @@
+module genericsTutorial3 {
+}
